@@ -3,9 +3,9 @@
   "author": "",
   "globals": {
     "background": "#111418",
-    "foreground": "#AEB2B2",
-    "caret": "#AEB2B2",
-    "block_caret": "#AEB2B2",
+    "foreground": "#ffffff",
+    "caret": "#ffffff",
+    "block_caret": "#ffffff",
     "line_highlight": "#c62f520c",
     "misspelling": "",
     "fold_marker": "#c7910c",
@@ -30,7 +30,7 @@
   },
   "variables": {
     "black": "#111418",
-    "white": "#AEB2B2",
+    "white": "#ffffff",
     "red": "#E35535",
     "green": "#00a884",
     "yellow": "#c7910c",
@@ -61,7 +61,7 @@
       "scope": "constant"
     },
     {
-      "foreground": "#AEB2B2",
+      "foreground": "#ffffff",
       "font_style": 0,
       "scope": "source, support, constant.character.entity.named, meta.jsx.children, source.lua"
     },
@@ -91,7 +91,7 @@
       "scope": "keyword.control, keyword.control.conditional, storage.modifier, keyword.operator.new, keyword.operator.expression, keyword.begin.blade, keyword.end.blade, keyword.blade, keyword.type-alias, keyword.type, support.class.console, keyword.other.await, storage.type.class.jsdoc, punctuation.definition.block.tag.jsdoc, keyword.operator.assignment.cs"
     },
     {
-      "foreground": "#AEB2B2",
+      "foreground": "#ffffff",
       "font_style": 0,
       "scope": "meta.object-literal.key, variable.object.property"
     },
@@ -246,7 +246,7 @@
       "scope": "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity"
     },
     {
-      "foreground": "#AEB2B2",
+      "foreground": "#ffffff",
       "font_style": 0,
       "scope": "support.type.property-name.css, support.type.vendored.property-name, meta.property-list entity.name.tag.css, meta.property-list.scss meta.property-list.scss entity.name.tag.css"
     },
