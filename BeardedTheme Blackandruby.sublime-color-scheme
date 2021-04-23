@@ -24,8 +24,8 @@
     "guide": "#525e6f30",
     "active_guide": "",
     "stack_guide": "",
-    "brackets_foreground": "#c62f5260",
-    "tags_foreground": "#c62f5260",
+    "brackets_foreground": "#c62f52",
+    "tags_foreground": "#c62f52",
     "shadow": "#000000"
   },
   "variables": {
